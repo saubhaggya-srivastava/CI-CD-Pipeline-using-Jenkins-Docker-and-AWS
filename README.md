@@ -511,7 +511,7 @@ Also, we if access our new dockerized app from our browser on port 8087, the res
 
 ### Conclusion
 
-**In this blog, we learned how to automate the build and deploy process using GitHub, Jenkins, Docker, and AWS EC2.**
+**In this Project we automate the build and deploy process using GitHub, Jenkins, Docker, and AWS EC2.**
 
 
 
